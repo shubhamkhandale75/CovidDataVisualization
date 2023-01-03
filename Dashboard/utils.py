@@ -44,7 +44,7 @@ def plot_pie(value, title, color, df):
 
 def fetchAPI():
     headers = {
-        "X-RapidAPI-Key": "09c06425e0mshe6be6e5bba7952bp13c789jsnfa71bb8e5485",
+        "X-RapidAPI-Key": "APIKey",
         "X-RapidAPI-Host": "vaccovid-coronavirus-vaccine-and-treatment-tracker.p.rapidapi.com"
     }
 
